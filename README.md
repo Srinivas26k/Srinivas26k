@@ -1,6 +1,6 @@
 # 🌌 Srinivas Nampalli | AstraSrinix 🌌
 
-Hi there! 👋 I'm **Srinivas Nampalli**, a Mechanical Engineer, AI enthusiast, and the creator of [AstraSrinix](https://bit.ly/3MJjEhI), where I explore the intersection of **engineering, AI, and innovation**. From **YouTube tutorials** to **SaaS projects** and web apps, I'm passionate about making complex tech accessible, exploring new frontiers, and building tools that empower others. 
+Hi there! 👋 I'm [**Srinivas Nampalli**](https://srinivas26k.github.io/Nampalli-Srinivas/), a Mechanical Engineer, AI enthusiast, and the creator of [AstraSrinix](https://bit.ly/3MJjEhI), where I explore the intersection of **engineering, AI, and innovation**. From **YouTube tutorials** to **SaaS projects** and web apps, I'm passionate about making complex tech accessible, exploring new frontiers, and building tools that empower others. 
 
 ## 🚀 About Me
 - 🔧 Mechanical Engineer | AI Minor @ IIT Ropar
