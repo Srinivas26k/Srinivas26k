@@ -52,8 +52,8 @@ With hands-on experience at **Ford** and **GE Aerospace**, I bring practical ind
 ---
 
 ### 🔥 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Srinivas26k&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas26k&layout=compact&theme=radical)
 
 ---
 
