@@ -45,7 +45,7 @@ With hands-on experience at **Ford** and **GE Aerospace**, I bring practical ind
 
 ### 📈 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srinivas-nampalli/)
-[![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=internet-explorer&logoColor=white)]((https://srinivas26k.github.io/Nampalli-Srinivas/))
+[![Website](https://img.shields.io/badge/-Website-green?style=flat&logo=internet-explorer&logoColor=white)](https://srinivas26k.github.io/Nampalli-Srinivas/)
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/YourChannelLink)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:srinivasvarma764@gmail.com)
 
