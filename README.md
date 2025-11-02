@@ -89,6 +89,11 @@ I build intelligent systems at the intersection of quantum computing, AI, and sy
 - Mentoring open-source projects and industry collaborations
 - Quantum computing application development
 
+
+**AI Associate's Degree – IIT Ropar** *(2024)*
+- Advanced AI systems architecture, neural networks, and machine learning
+- Specialized in LLM fine-tuning and computer vision
+
 **Automotive AI Engineer – Ford Motor Company** *(2022 – 2024)*
 - Developed battery management systems for electric vehicles
 - Optimized PID controllers and thermal management algorithms
@@ -104,9 +109,6 @@ I build intelligent systems at the intersection of quantum computing, AI, and sy
 - CNC manufacturing process optimization
 - Critical defense system integration projects
 
-**AI Associate's Degree – IIT Ropar** *(2020)*
-- Advanced AI systems architecture, neural networks, and machine learning
-- Specialized in LLM fine-tuning and computer vision
 
 ---
 
