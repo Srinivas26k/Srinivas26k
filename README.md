@@ -8,7 +8,7 @@ I build intelligent systems at the intersection of quantum computing, AI, and sy
 
 ## About Me
 
-- 🎓 **AI Associate's Degree** – IIT Ropar
+- 🎓 **AI Associate's Degree (Dropout)** – IIT Ropar
 - 🏆 **1st Place BB84 Algorithm Winner** – ISAQC Qiskit Fall Fest 2025 (IBM Quantum + IIIT-Hyderabad)
 - 🚗 **Ford Motor Company** – EV Engineering & Battery Management Systems Intern
 - ✈️ **GE Aerospace** – Propulsion System Analysis & Optimization Intern
@@ -50,7 +50,7 @@ I build intelligent systems at the intersection of quantum computing, AI, and sy
 
 ### 🥇 Quantum Computing
 **BB84 Algorithm Winner – ISAQC Qiskit Fall Fest 2025**
-- 1st Place prize: ₹6,000
+- 1st Place prize
 - Hosted by IBM Quantum & IIIT-Hyderabad
 - Advanced quantum cryptography implementation and optimization
 
